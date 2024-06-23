@@ -1,10 +1,10 @@
 CRUD Website Toko Buku
 Tugas UAS Praktikum Pemrograman Website 1
 
-Tampilan Login
+Tampilan Registrasi
 ![image](https://github.com/faridfadhlan666/UAS_Praktikum_PemWeb/assets/162896380/a1d9718b-6c74-4a38-a38f-0548577a2702)
 
-Tampilan Daftar
+Tampilan Login
 ![image](https://github.com/faridfadhlan666/UAS_Praktikum_PemWeb/assets/162896380/34061ff8-87c8-4960-8f0d-1dd6271b3812)
 
 Tampilan Utama (Create, Read, dan Delete)
